@@ -3,23 +3,10 @@ Source code from the book Genetic Algorithms with Python by Clinton Sheppard
 
 Description
 ===
-
-[Edición española](https://github.com/handcraftsman/GeneticAlgorithmsWithPython/tree/master/es#descripción)
-
-<img align="right" src="http://www.cs.unm.edu/~sheppard/img/Genetic_Algorithms_with_Python_cover.jpg" alt="Genetic Algorithms with Python cover">
 Get a hands-on introduction to machine learning with genetic algorithms using Python. Step-by-step tutorials build your skills from Hello World! to optimizing one genetic algorithm with another, and finally genetic programming; thus preparing you to apply genetic algorithms to problems in your own field of expertise.
 
 Genetic algorithms are one of the tools you can use to apply machine learning to finding good, sometimes even optimal, solutions to problems that have billions of potential solutions. This book gives you experience making genetic algorithms work for you, using easy-to-follow example projects that you can fall back upon when learning to use other machine learning tools and techniques. Each chapter is a step-by-step tutorial that helps to build your skills at using genetic algorithms to solve problems using Python.
 
-Available from major stores including Amazon, Apple and Barnes &amp; Noble, in paperback, ePub, Kindle and PDF formats.
-
-- https://www.amazon.com/Genetic-Algorithms-Python-Clinton-Sheppard/dp/1540324001/ ISBN-13: 978-1-540324-00-9 (paperback) 
-- https://www.amazon.com/Genetic-Algorithms-Python-Clinton-Sheppard/dp/1732029806/ ISBN-13: 978-1-7320298-0-4 (hardcover)
-- https://itunes.apple.com/us/book/genetic-algorithms-with-python/id1231392098 ISBN-13: 978-1-370764-62-4 (ePub)
-- https://www.amazon.com/dp/B01MYOWVJ2/ (Kindle Edition)
-- https://leanpub.com/genetic_algorithms_with_python (PDF)
-
-Try the [sample chapters](http://bit.ly/28TBz3l).
 
 Table of Contents
 ===
